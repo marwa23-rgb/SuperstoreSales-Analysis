@@ -1,4 +1,4 @@
-<h1 align="center">🛒 Explore SampleSuperstore</h1>
+<h1 align="center">🛒 Explore SuperstoreSales Analysis</h1>
 
 <p align="center">
   Exploratory data analysis of a superstore's sales and profit data using Python
