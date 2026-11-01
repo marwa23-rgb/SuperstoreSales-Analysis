@@ -2,11 +2,6 @@
 
 Exploratory data analysis of the SampleSuperstore dataset from Kaggle, which contains sales and profit data for a superstore. The goal is to understand the data, find patterns, and spot areas where the store can improve its profit.
 
-## Files
-
-- `SampleSuperstore.csv`: the dataset
-- `SampleSuperstore.ipynb`: the analysis notebook
-
 ## What was done
 
 1. Explored the data with `head()`, `info()` and `describe()`.
