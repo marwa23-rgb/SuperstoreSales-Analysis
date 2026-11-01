@@ -65,7 +65,6 @@ This project explores the **SampleSuperstore** dataset from Kaggle. It cleans th
 
 **Loss-making states:** Ohio, Colorado, North Carolina, Tennessee, Pennsylvania, Texas, Illinois, Arizona, Oregon, Florida.
 
----
 
 ## 💡 Recommendations
 
@@ -74,15 +73,6 @@ This project explores the **SampleSuperstore** dataset from Kaggle. It cleans th
 - **Pricing:** adjust prices so profit grows as the number of items increases.
 - **Discounts:** manage them carefully, especially on larger orders.
 - **States:** focus on improving profit in the loss-making states listed above.
-
----
-
-## 🚀 Run It
-
-```bash
-pip install pandas numpy matplotlib seaborn jupyter
-jupyter notebook SampleSuperstore.ipynb
-```
 
 ## 👩‍💻 Author
 
